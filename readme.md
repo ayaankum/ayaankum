@@ -61,8 +61,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 📬 Get in Touch
 
 - **Email**: [ayaanrk132@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/ayaan-kumar)
-- **GitHub**: [Your GitHub Profile](https://github.com/ayaankum)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ayaan-kumar)
+- **GitHub**: [GitHub Profile](https://github.com/ayaankum)
 
 ---
  ![Leetcode Stats](https://leetcard.jacoblin.cool/zzrex0711?theme=unicorn&ext=contest)
