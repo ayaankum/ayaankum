@@ -15,7 +15,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - 🌍 **Location:** Bengaluru
 
 ---
+## 📈 GitHub Stats
+<div style="display: flex; align-items: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayaankum&theme=algolia" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayaankum&theme=algolia" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayaankum&theme=algolia" alt="Stats">
+   
+</div>
 
+---
 ## 🛠️ Technologies & Tools
 
 ### **Languages**
@@ -42,12 +50,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaankum&show_icons=true&theme=transparent)
 
 ---
 
